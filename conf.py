@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Micro:bit 37 in 1 Sensor Kit'
+project = 'Micro:bit 37 sensors starter kit'
 copyright = 'keyestudio wiki'
 author = 'keyestudio'
 
