@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Kit for arduino'
-copyright = 'keyestudio'
+project = 'Micro:bit 37 in 1 Sensor Kit'
+copyright = 'keyestudio wiki'
 author = 'keyestudio'
 
 # -- General configuration ---------------------------------------------------
